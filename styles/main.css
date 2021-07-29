@@ -9,7 +9,7 @@ body{
 }
 /* Header section css */
 
-header{
+.custom-bg{
     background-color: #264653;
 }
 
