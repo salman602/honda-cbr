@@ -13,13 +13,13 @@ header{
     background-color: #264653;
 }
 
-.btn-bg{
+.honda-btn-bg{
     background-color: #E76F51;
     color: #fff;
 }
 
+/* featured bike section */
 
 .image-gray{
-    /* -webkit-filter: grayscale(100%); */
     filter: grayscale(100%);
 }
